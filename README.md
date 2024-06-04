@@ -1,16 +1,18 @@
-## Hi there 👋
+# Oi eu sou o Kaio seja bem vindo ao meu perfil!😁
 
+🤔  Quem sou eu?
+-  💻  Estudante de ciências da computação.
+-  4º semestre turno Matutino.
+-  🎯  Futuro Fullstack.
 
-**Kaiolucass/Kaiolucass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙  Tecnologias:
+-  HTML/CSS
+-  PYTHON
+-  SQL
+-  JAVA
+-  Pacote Officer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗨  Idiomas que eu falo:
+-  Português Nativo
+-  Inglês  Avançado (cursando)
+-  LIBRAS intermediário
