@@ -11,7 +11,7 @@
 -  SQL
 -  JAVA☕
 -  JAVA Script☕
--  Pacote Officer📦
+-  Pacote Office📦
 
 🗨  Idiomas que eu falo:
 -  Português Nativo
