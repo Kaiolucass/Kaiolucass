@@ -7,10 +7,10 @@
 
 ⚙  Tecnologias:
 -  HTML/CSS
--  PYTHON
+-  PYTHON🐍
 -  SQL
--  JAVA
--  Pacote Officer
+-  JAVA☕
+-  Pacote Officer📦
 
 🗨  Idiomas que eu falo:
 -  Português Nativo
