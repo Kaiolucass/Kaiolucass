@@ -10,6 +10,7 @@
 -  PYTHON🐍
 -  SQL
 -  JAVA☕
+-  JAVA Script☕
 -  Pacote Officer📦
 
 🗨  Idiomas que eu falo:
