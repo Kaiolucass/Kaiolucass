@@ -2,7 +2,7 @@
 
 ## 🤔  Quem sou eu?
 -  💻  Estudante de ciências da computação.
--  4º semestre turno Matutino.
+-  5º semestre turno Matutino.
 -  🎯  Futuro Fullstack.
 
 ## ⚙  Tecnologias:
