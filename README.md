@@ -1,9 +1,14 @@
 # Oi eu sou o Kaio seja bem vindo ao meu perfil!😁👋
 
+## Contato ☎
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kl.kaio_lucas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-lucas-araújo-silva-051641249/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiosaulo22@gmail.com)
+
 ## 🤔  Quem sou eu?
--  💻  Estudante de ciências da computação.
--  5º semestre turno Matutino.
--  🎯  Futuro Fullstack.
+### -  💻 Estudante de ciências da computação.
+### -  5º semestre turno Matutino.
+### -  🎯  Futuro Fullstack.
 
 ![Kaiolucass GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiolucass&show_icons=true&theme=radical)
 
@@ -23,5 +28,5 @@
 </div>
 
 
-## 📈 Tecnologias mais usadas no dia a dia:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiolucass&layout=donut)](https://github.com/Kaiolucass/github-readme-stats)
+## ⚙ Tecnologias mais usadas no dia a dia:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiolucass&layout=donut&theme=radical)](https://github.com/Kaiolucass/github-readme-stats)
