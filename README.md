@@ -6,10 +6,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiosaulo22@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kaiolucasaraujosilva)
 
-## 🤔  Quem sou eu?
-### -  💻 Estudante de ciências da computação.
-### -  5º semestre turno Matutino.
-### -  🎯  Futuro Fullstack.
+## • 🤔  Quem sou eu?
+### •  💻 Estudante de ciências da computação.
+### •  5º semestre turno Matutino.
+### •  🎯  Futuro Fullstack.
+### •  👯 Estou procurando colaborar em projetos de código aberto
 
 ![Kaiolucass GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiolucass&show_icons=true&theme=radical)
 
