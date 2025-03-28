@@ -31,5 +31,5 @@
 </div>
 
 
-## ⚙ Tecnologias mais usadas no dia a dia:
+## ⚙ Tecnologias mais usadas no meu dia a dia:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiolucass&layout=donut&theme=radical)](https://github.com/Kaiolucass/github-readme-stats)
