@@ -32,4 +32,4 @@
 
 
 ## ⚙ Tecnologias mais usadas no meu dia a dia:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiolucass&layout=donut&theme=radical)](https://github.com/Kaiolucass/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiolucas01&layout=donut&theme=radical)](https://github.com/Kaiolucass/github-readme-stats)
