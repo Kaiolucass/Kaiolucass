@@ -8,7 +8,7 @@
 
 ## 🤔  Quem sou eu?
 ### •  💻 Estudante de ciências da computação.
-### •  6º semestre turno Matutino.
+### •  8º semestre turno Matutino.
 ### •  🎯  Futuro Fullstack.
 ### •  👯 Estou procurando colaborar em projetos de código aberto
 
