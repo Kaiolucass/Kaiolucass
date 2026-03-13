@@ -5,7 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiolucass/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiosaulo22@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kaiolucasaraujosilva)
-Meu portifolio online (https://kaiolucass.com.br/)
+
+Meu portifolio online
+(https://kaiolucass.com.br/)
 
 ## 🤔  Quem sou eu?
 ### •  💻 Estudante de ciências da computação.
