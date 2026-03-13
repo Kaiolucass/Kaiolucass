@@ -1,10 +1,11 @@
 # Oi eu sou o Kaio seja bem vindo ao meu perfil!😁👋
 
 ## Contato ☎
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kl.kaio_lucas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-lucas-araújo-silva-051641249/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaio.lucass21/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiolucass/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiosaulo22@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kaiolucasaraujosilva)
+Meu portifolio online (https://kaiolucass.com.br/)
 
 ## 🤔  Quem sou eu?
 ### •  💻 Estudante de ciências da computação.
