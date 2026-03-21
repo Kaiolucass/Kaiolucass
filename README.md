@@ -1,38 +1,74 @@
-# Oi eu sou o Kaio seja bem vindo ao meu perfil!😁👋
+<div align="center">
+  <p align="center">
+    <img src="imagens/Banner kaiolucass.png" alt="Banner Kaio Lucas" width="100%">
+  </p>
 
-## Contato ☎
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaio.lucass21/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiolucass/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiosaulo22@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kaiolucasaraujosilva)
-
-Meu portifolio online
-(https://kaiolucass.com.br/)
-
-## 🤔  Quem sou eu?
-### •  💻 Estudante de ciências da computação.
-### •  8º semestre turno Matutino.
-### •  🎯  Futuro Fullstack.
-### •  👯 Estou procurando colaborar em projetos de código aberto
-
-![Kaiolucass GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiolucass&show_icons=true&theme=radical)
-
-## 📈 Tecnologias:
-
-<div style="display: inline-block"><br/>
-    <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center"alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center"alt="pYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center"alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center"alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center"alt="java script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center"alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img align="center"alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img align="center"alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-    <img align="center"alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-    <img align="center"alt="PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColo">
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiolucass/)
+  [![Instagram](https://img.shields.io/badge/INSTAGRAM-0056b3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaiolucass)
+  [![Website](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=google-chrome&logoColor=0077B5)](https://kaiolucass.com.br)
 </div>
 
 
-## ⚙ Tecnologias mais usadas no meu dia a dia:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiolucass&layout=donut&theme=radical)](https://github.com/Kaiolucass/github-readme-stats)
+
+<p align="left">
+  <img src="imagens/logokl.png" align="right" width="180" style="margin-left: 20px;">
+  <div>
+  
+## Kaio Lucas
+  **Computer Scientist | Full Stack Developer**
+  
+  Estudante de Ciência da Computação (8º Semestre - CEUB) e Desenvolvedor na **ECODOTS**. Criador do **KitPc**, projeto que gera tráfego orgânico real e validação de mercado com foco em hardware e montagem de setups.
+
+  <br>
+
+  > Foco em **Backend escalável**: Desenvolvendo APIs robustas com **FastAPI e Flask**, além de gerenciamento avançado de dados com **MySQL e PostgreSQL**.
+
+  <br>
+
+  Expertise técnica: **Python, Flutter (Dart), Infraestrutura Linux e Versionamento Git**.
+  </div>
+</p>
+<br clear="right">
+
+<div align="center">
+<h3>Core Tech Stack</h3>
+</div>
+
+---
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+</br>
+
+<div align="center">
+<h3>Development Metrics</h3>
+</div>
+
+---
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiolucass&show_icons=true&theme=dark&title_color=0077B5&text_color=ffffff&icon_color=0077B5&border_color=0077B5"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiolucass&layout=compact&theme=dark&title_color=0077B5&text_color=ffffff&border_color=0077B5"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaiolucass&bg_color=0d1117&color=0077B5&line=0077B5&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+<div align="center">
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+</div>
