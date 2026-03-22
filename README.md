@@ -15,9 +15,9 @@
   
 
   
-  **Cientista da Computação (8º semestre - CEUB) | Backend Developer**
+**Cientista da Computação (8º semestre - CEUB) | Backend Developer**
   
-  Desenvolvedor na **ECODOTS**, focado no desenvolvimento de APIs REST com FastAPI e Flask, integração com bancos relacionais e organização de código em camadas. Sou movido por transformar lógica em produtos que geram valor real para o usuário final.
+Desenvolvedor na **ECODOTS**, focado na construção de APIs robustas e escaláveis. Sou movido por transformar lógica em produtos que geram valor real para o usuário final. Atualmente busco oportunidade como **Desenvolvedor Backend Júnior**.
   
   ### 🏆 Destaque: KitPC
   O **KitPC** é meu projeto em fase inicial, já validando aquisição de usuários via SEO com crescimento orgânico contínuo. Recentemente alcançou a marca de **50 cliques orgânicos mensais** via Google Search, validando na prática minhas estratégias de:
@@ -47,10 +47,6 @@
 </div>
 
 <br>
-
-## 🎯 Objetivo
-
-Busco oportunidade como Desenvolvedor Backend Júnior para atuar no desenvolvimento de APIs, trabalhar com dados e evoluir em ambientes reais de produção.
 
 <div align="center">
 <h3>🛠️ Tech Stack</h3>
